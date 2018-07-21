@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-soap-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lue
+Implementation-Vendor-Id: com.techprimes
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ soap-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

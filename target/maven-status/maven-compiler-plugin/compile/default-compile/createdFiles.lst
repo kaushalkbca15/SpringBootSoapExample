@@ -1,0 +1,9 @@
+com\techprimes\springbootsoapexample\config\SoapWebservieConfig.class
+org\example\spring_boot_soap_example\GetUserRequest.class
+org\example\spring_boot_soap_example\User.class
+org\example\spring_boot_soap_example\ObjectFactory.class
+org\example\spring_boot_soap_example\GetUserResponse.class
+com\techprimes\springbootsoapexample\SpringBootSoapExampleApplication.class
+org\example\spring_boot_soap_example\package-info.class
+com\techprimes\springbootsoapexample\endpoint\UserEndpoint.class
+com\techprimes\springbootsoapexample\service\UserService.class
